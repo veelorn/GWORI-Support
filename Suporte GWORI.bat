@@ -6,42 +6,42 @@ mode 45,35
 
 :interface
 cls
-echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
-echo º   MENU DE REPARO - SUPORTE AUTOMATIZADO   º
-echo º       por GWORI Tech (Lucas Rezende)      º
-echo º                  v1.2.0                   º
-echo ºÛ²±°      @gworitech @rezenderenz          º
-echo ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+echo Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ»
+echo Âº   MENU DE REPARO - SUPORTE AUTOMATIZADO   Âº
+echo Âº       por GWORI Tech (Lucas Rezende)      Âº
+echo Âº                  v1.2.0 Ã›Â²Â±Â°              Âº
+echo Âº                @gworitech                 Âº
+echo ÃˆÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¼
 
 echo.
 
-echo    ÚÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-echo    ³1³ Desligar PC Daqui 1 Hora        ³
-echo    ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
-echo    ³2³ Desligar PC Daqui 2 Horas       ³
-echo    ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
-echo    ³3³ Resolver PC com Lentid„o        ³
-echo    ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
-echo    ³4³ Resolver Internet Lenta         ³
-echo    ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
-echo    ³5³ Iniciar Reparo no PC  (Usar em  ³
-echo    ³ ³ caso de apresenta‡„o de erros)  ³
-echo    ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
-echo    ³6³ Atualizar Computador            ³
-echo    ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
-echo    ³7³ Ver Informa‡”es do Sistema      ³
-echo    ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
-echo    ³0³ Sair                            ³
-echo    ÀÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+echo    ÃšÃ„Ã‚Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â¿
+echo    Â³1Â³ Desligar PC Daqui 1 Hora        Â³
+echo    ÃƒÃ„Ã…Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â´
+echo    Â³2Â³ Desligar PC Daqui 2 Horas       Â³
+echo    ÃƒÃ„Ã…Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â´
+echo    Â³3Â³ Resolver PC com Lentidâ€žo        Â³
+echo    ÃƒÃ„Ã…Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â´
+echo    Â³4Â³ Resolver Internet Lenta         Â³
+echo    ÃƒÃ„Ã…Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â´
+echo    Â³5Â³ Iniciar Reparo no PC  (Usar em  Â³
+echo    Â³ Â³ caso de apresentaâ€¡â€žo de erros)  Â³
+echo    ÃƒÃ„Ã…Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â´
+echo    Â³6Â³ Atualizar Computador            Â³
+echo    ÃƒÃ„Ã…Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â´
+echo    Â³7Â³ Ver Informaâ€¡â€es do Sistema      Â³
+echo    ÃƒÃ„Ã…Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â´
+echo    Â³0Â³ Sair                            Â³
+echo    Ã€Ã„ÃÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã™
 
 echo.
-echo ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ      
-choice /c 12345670 /n /m  "Digite a op‡„o desejada: " 
+echo ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃ      
+choice /c 12345670 /n /m  "Digite a opâ€¡â€žo desejada: " 
 goto %errorlevel%
 
 
 :1
-shutdown /r /t 3600
+shutdown /s /t 3600
 echo Desligamento agendado para daqui 1 hora.
 echo.
 echo Pressione qualquer tecla para voltar...
@@ -50,7 +50,7 @@ pause >nul
 goto interface
 
 :2
-shutdown /r /t 7200
+shutdown /s /t 7200
 echo Desligamento agendado para daqui 2 horas.
 echo.
 echo Pressione qualquer tecla para voltar...
@@ -69,11 +69,10 @@ goto interface
 
 :4
 ipconfig /flushdns
+netsh winsock reset
+shutdown /r /t 10
 echo.
-echo.
-echo Pressione qualquer tecla para voltar...
 pause >nul 
-goto interface
 
 :5
 sfc /scannow
@@ -104,4 +103,5 @@ echo.
 echo Pressione qualquer tecla para fechar...
 pause >nul
 echo.
+
 exit
